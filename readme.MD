@@ -1,6 +1,6 @@
 ## React App (project base)
 
-## Catch of the Day App
+## Catch-of-the-day
 
 - https://reactforbeginners.com/
 
